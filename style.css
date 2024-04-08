@@ -1,0 +1,48 @@
+.main{
+    margin-top: 80px;
+    margin-left: 300px;
+    padding: 20px;
+    font-family: Arial;
+    box-shadow: 5px  5px 7px 5px whitesmoke;
+    background-color: #32c3eb;
+}
+
+.main1{
+    padding: 20px;
+    font-family: Arial;
+    box-shadow: 5px  5px 7px 5px #8888;
+}
+
+.main1 h1{
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial;
+}
+
+.main h2{
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial;
+}
+
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px;
+    border-bottom: 2px solid black;
+    border-radius: 20px;
+}
+
+input[type=submit]{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    background-color: black;
+    border:none;
+    color: rgb(30, 241, 181);
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+
+}
